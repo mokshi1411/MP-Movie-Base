@@ -10,7 +10,7 @@ const Navbar = () => {
         <input type='search' name='search' placeholder='Search' />
       </form>
       <h1 className="ss">
-      <i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+      <i class="fa-sharp fa-solid fa-magnifying-glass" ></i>
       </h1>
     </nav>
   );
